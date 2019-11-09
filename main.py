@@ -1,6 +1,6 @@
 # Title:  Yahtzee
 # Author:  Ryan Hawkins
-# Update:  2019-10-28
+# Update:  2019-11-08
 
 import random
 
